@@ -7,6 +7,7 @@
     "test": "test"
   },
   "scripts": {
+    "start": "npx live-server",
     "test": "open test/index.html"
   },
   "author": "",
